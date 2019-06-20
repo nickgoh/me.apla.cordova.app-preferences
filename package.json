@@ -31,7 +31,9 @@
     "q": "^1.4.1",
     "serve-me": "^0.8.2",
     "path": "^0.12.7",
-    "fs": "^2.2.2"
+    "fs": "^2.2.2",
+    "cordova-lib": "^9.0.0"
+    
   },
   "keywords": [
     "preferences",
